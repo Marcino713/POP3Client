@@ -1,0 +1,22 @@
+body{
+margin: 3px;
+font-family: Arial;
+font-size: 13px;
+}
+
+table{
+font-size: 13px;
+border-collapse: collapse;
+margin: 3px;
+}
+
+th{
+background-color: #C0F0F0;
+font-weight: normal;
+border: 3px solid #C0F0F0;
+}
+
+td{
+border: 3px solid #C0F0F0;
+padding: 2px;
+}
